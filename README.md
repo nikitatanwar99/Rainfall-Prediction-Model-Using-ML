@@ -15,6 +15,7 @@ The project explores data patterns, feature relationships (humidity, temperature
 
 This project uses the following tools and technologies:
 
+
  Python – model development & processing
 
  Pandas / NumPy – data cleaning & feature engineering
