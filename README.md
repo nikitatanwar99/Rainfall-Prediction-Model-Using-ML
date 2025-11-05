@@ -1,5 +1,6 @@
 # Rainfall_Prediction_Model_Using_ML
 
+
 A machine learning based predictive modeling project that estimates the rainfall amount based on climate indicators & weather parameters.
 
 
@@ -72,17 +73,19 @@ Exploratory Visualizations
 
 Feature Selection
 
-Model Training using algorithms like:
+Model Training using Random Forest
 
-Logistic Regression
+Model evaluation using Accuracy, confusion_matrix,classification_report.
 
-Random Forest
+Advanced steps used in modelling:
 
-Decision Tree
+Hyperparameter tuning using GridSearchCV
 
-Gradient Boosting / XGBoost
+Performance validation using cross_val_score
 
-Model evaluation using Accuracy, Precision, Recall, ROC-AUC.
+RandomForestClassifier selected as final best model
+
+Final trained model saved using Pickle for deployment usage
 
 
 • **Business Impact & Value**
