@@ -1,1 +1,1 @@
-# Rainfall-Prediction-Model-Using-ML
+# Rainfall_Prediction_Model_Using_ML
