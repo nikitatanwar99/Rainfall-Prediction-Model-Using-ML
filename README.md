@@ -29,21 +29,34 @@ This project uses the following tools and technologies:
 
 **Data Source**
 
-Source: Historical weather dataset (CSV)
+Source: Rainfall prediction dataset (CSV)
 
 The dataset includes:
 
-Location / Region
+day
 
-Temperature
+pressure
 
-Humidity
+maxtemp
 
-Air Pressure
+temparature
 
-Wind Speed
+mintemp
 
-Rainfall value / RainToday / RainTomorrow labels
+dewpoint
+
+humidity
+
+cloud
+
+rainfall
+
+sunshine
+
+winddirection
+
+windspeed
+
 
 This dataset helps understand how environmental conditions affect rainfall and enables predictive modeling to forecast future rainfall events.
 
