@@ -15,15 +15,15 @@ The project explores data patterns, feature relationships (humidity, temperature
 
 This project uses the following tools and technologies:
 
-🐍 Python – model development & processing
+ Python – model development & processing
 
-📊 Pandas / NumPy – data cleaning & feature engineering
+ Pandas / NumPy – data cleaning & feature engineering
 
-🔍 Scikit-learn – ML algorithm implementation
+ Scikit-learn – ML algorithm implementation
 
-📈 Matplotlib / Seaborn – visualization & analysis
+ Matplotlib / Seaborn – visualization & analysis
 
-📁 Jupyter Notebook – modeling, testing, evaluation
+ Jupyter Notebook – modeling, testing, evaluation
 
 
 **Data Source**
